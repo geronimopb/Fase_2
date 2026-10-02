@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env*.venv/
+venv/
+
+# VS*Code
+.vscode/
+
+# Jupyter
+.ipyn**checkpoints/
+
+# Logs
+*.log
+
+# Buil*
+build/
+dist/
+
+# Datos*descarg*dos
+data/raw/
+
+# Sh*pefiles temporales
+*.sh*.xml
+
+* Mac
+.DS_Store
+
+# Freebuff
+.freebuff/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Datos
+*ata/
+datos/
+
+# Ent*egables
+*.pdf
+*.doc***.xlsx
